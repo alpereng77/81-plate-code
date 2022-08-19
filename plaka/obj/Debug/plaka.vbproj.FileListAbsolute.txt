@@ -1,0 +1,12 @@
+C:\Users\alper\source\repos\plaka\plaka\obj\Debug\plaka.vbprojAssemblyReference.cache
+C:\Users\alper\source\repos\plaka\plaka\obj\Debug\plaka.Form1.resources
+C:\Users\alper\source\repos\plaka\plaka\obj\Debug\plaka.Resources.resources
+C:\Users\alper\source\repos\plaka\plaka\obj\Debug\plaka.vbproj.GenerateResource.cache
+C:\Users\alper\source\repos\plaka\plaka\obj\Debug\plaka.vbproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\plaka\plaka\bin\Debug\plaka.exe.config
+C:\Users\alper\source\repos\plaka\plaka\bin\Debug\plaka.exe
+C:\Users\alper\source\repos\plaka\plaka\bin\Debug\plaka.pdb
+C:\Users\alper\source\repos\plaka\plaka\bin\Debug\plaka.xml
+C:\Users\alper\source\repos\plaka\plaka\obj\Debug\plaka.exe
+C:\Users\alper\source\repos\plaka\plaka\obj\Debug\plaka.xml
+C:\Users\alper\source\repos\plaka\plaka\obj\Debug\plaka.pdb
